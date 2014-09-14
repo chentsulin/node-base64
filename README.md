@@ -3,7 +3,7 @@ node-base64
 
 base64 helper for nodejs
 
-var base64 = require('./node-base64');
+    var base64 = require('./node-base64');
 
 ## encode(str)
 
