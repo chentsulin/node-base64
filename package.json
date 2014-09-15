@@ -20,5 +20,7 @@
     "url": "https://github.com/ChenTsuLin/node-base64/issues"
   },
   "homepage": "https://github.com/ChenTsuLin/node-base64",
-  "dependencies": {}
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
 }
