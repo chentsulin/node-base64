@@ -2,7 +2,7 @@
   "name": "node-base64",
   "version": "0.0.1",
   "description": "base64",
-  "main": "lib/node-base64.js",
+  "main": "./lib/node-base64.js",
   "scripts": {
     "test": "mocha"
   },
